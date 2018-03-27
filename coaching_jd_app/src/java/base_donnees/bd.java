@@ -24,6 +24,7 @@ public class bd {
         System.out.println("cocou test ");   
         
         
+        System.out.println("Test the push and pull");
     }
     
 }
